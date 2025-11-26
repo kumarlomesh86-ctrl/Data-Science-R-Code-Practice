@@ -1,0 +1,10 @@
+library(stats)
+d = dist(ncaa[,3:12], method="euclidian")
+fit = hclust(d, method="ward.D")         
+names(fit)
+plot(fit, main="NCAA_Team")
+groups = cutree( fit, k=4)
+rect.hclust( fit, k=4, border="blue")
+groups
+library(cluster)
+clusplot(ncaa[,3:12],groups,color=TRUE,shade=TRUE,labels=2,lines=0)

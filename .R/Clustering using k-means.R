@@ -1,0 +1,7 @@
+ncaa = read.table("ncaa.txt",header=TRUE)
+names(ncaa)
+d= dist(ncaa[ ,3:12], method="euclidian")
+ncaa_data = as.matrix(ncaa[ ,3:12])
+summary(ncaa_data)
+round(apply(ncaa_data,2,mean),2)
+apply(ncaa_data,2,sd)

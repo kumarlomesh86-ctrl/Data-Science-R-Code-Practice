@@ -1,0 +1,10 @@
+data("cu.summary")
+names(cu.summary)
+head(cu.summary)
+dim(cu.summary)
+library(rpart)
+fit <- rpart(Mileage~Price +Country + Reliability + Type,
+            method="anova", data=cu.summary)
+summary(fit)
+plot(fit, uniform=TRUE)
+text(fit, use.n=TRUE, all=TRUE, cex=.8)

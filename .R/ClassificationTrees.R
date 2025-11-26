@@ -1,0 +1,8 @@
+library(rpart)
+data("kyphosis")
+head(kyphosis)
+fit=rpart(Kyphosis~Age+Number+Start,method="class",data=kyphosis)
+printcp(fit)
+summary(fit)
+plot(fit, uniform = TRUE)
+text(fit,use.n=TRUE, all=TRUE, cex=0.8)
