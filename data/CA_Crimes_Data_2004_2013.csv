@@ -1,0 +1,641 @@
+Year,County,Crime_Type,Reported,Cleared
+2004,Los Angeles,Homicide,910,270
+2004,Los Angeles,Rape,3822,3092
+2004,Los Angeles,Robbery,516,214
+2004,Los Angeles,Assault,4476,3444
+2004,Los Angeles,Burglary,3221,2919
+2004,Los Angeles,Larceny,180,149
+2004,Los Angeles,Motor Vehicle Theft,819,343
+2004,Los Angeles,Arson,2483,1215
+2004,San Diego,Homicide,1234,459
+2004,San Diego,Rape,3435,21
+2004,San Diego,Robbery,4893,2904
+2004,San Diego,Assault,524,58
+2004,San Diego,Burglary,2608,2047
+2004,San Diego,Larceny,2797,975
+2004,San Diego,Motor Vehicle Theft,1856,189
+2004,San Diego,Arson,2784,562
+2004,Orange,Homicide,1949,1590
+2004,Orange,Rape,1317,831
+2004,Orange,Robbery,1578,1154
+2004,Orange,Assault,3606,646
+2004,Orange,Burglary,2938,2214
+2004,Orange,Larceny,2485,600
+2004,Orange,Motor Vehicle Theft,2413,2061
+2004,Orange,Arson,291,264
+2004,Riverside,Homicide,2662,1363
+2004,Riverside,Rape,1528,1451
+2004,Riverside,Robbery,2606,775
+2004,Riverside,Assault,4064,34
+2004,Riverside,Burglary,3202,1955
+2004,Riverside,Larceny,1635,1411
+2004,Riverside,Motor Vehicle Theft,3123,1021
+2004,Riverside,Arson,3511,2613
+2004,San Bernardino,Homicide,3893,1500
+2004,San Bernardino,Rape,4848,161
+2004,San Bernardino,Robbery,4347,1981
+2004,San Bernardino,Assault,1045,269
+2004,San Bernardino,Burglary,4961,3342
+2004,San Bernardino,Larceny,4601,3798
+2004,San Bernardino,Motor Vehicle Theft,1325,1016
+2004,San Bernardino,Arson,387,366
+2004,Santa Clara,Homicide,1126,791
+2004,Santa Clara,Rape,4043,2264
+2004,Santa Clara,Robbery,4909,379
+2004,Santa Clara,Assault,542,40
+2004,Santa Clara,Burglary,2112,64
+2004,Santa Clara,Larceny,2618,1367
+2004,Santa Clara,Motor Vehicle Theft,2077,1495
+2004,Santa Clara,Arson,441,162
+2004,Alameda,Homicide,4564,4474
+2004,Alameda,Rape,3611,2278
+2004,Alameda,Robbery,3149,2182
+2004,Alameda,Assault,250,71
+2004,Alameda,Burglary,4925,3104
+2004,Alameda,Larceny,4648,2454
+2004,Alameda,Motor Vehicle Theft,3695,1751
+2004,Alameda,Arson,854,98
+2004,Sacramento,Homicide,2781,1895
+2004,Sacramento,Rape,2823,1570
+2004,Sacramento,Robbery,2740,1028
+2004,Sacramento,Assault,552,397
+2004,Sacramento,Burglary,920,794
+2004,Sacramento,Larceny,4538,206
+2004,Sacramento,Motor Vehicle Theft,1534,863
+2004,Sacramento,Arson,2840,563
+2005,Los Angeles,Homicide,4241,1757
+2005,Los Angeles,Rape,1728,1194
+2005,Los Angeles,Robbery,4686,1059
+2005,Los Angeles,Assault,1772,1266
+2005,Los Angeles,Burglary,3207,1819
+2005,Los Angeles,Larceny,2675,2604
+2005,Los Angeles,Motor Vehicle Theft,1647,1012
+2005,Los Angeles,Arson,2743,795
+2005,San Diego,Homicide,3677,1363
+2005,San Diego,Rape,2031,1354
+2005,San Diego,Robbery,1713,1529
+2005,San Diego,Assault,2088,1496
+2005,San Diego,Burglary,3352,2237
+2005,San Diego,Larceny,1356,632
+2005,San Diego,Motor Vehicle Theft,2725,972
+2005,San Diego,Arson,1332,709
+2005,Orange,Homicide,4794,4413
+2005,Orange,Rape,3798,3296
+2005,Orange,Robbery,4829,663
+2005,Orange,Assault,2048,1850
+2005,Orange,Burglary,3495,1631
+2005,Orange,Larceny,1545,1256
+2005,Orange,Motor Vehicle Theft,3813,1136
+2005,Orange,Arson,1903,1520
+2005,Riverside,Homicide,4709,1291
+2005,Riverside,Rape,3631,3457
+2005,Riverside,Robbery,1686,1648
+2005,Riverside,Assault,3049,698
+2005,Riverside,Burglary,2210,1
+2005,Riverside,Larceny,4787,854
+2005,Riverside,Motor Vehicle Theft,3524,1661
+2005,Riverside,Arson,1757,729
+2005,San Bernardino,Homicide,1783,1439
+2005,San Bernardino,Rape,4981,3510
+2005,San Bernardino,Robbery,252,183
+2005,San Bernardino,Assault,4268,766
+2005,San Bernardino,Burglary,4439,2327
+2005,San Bernardino,Larceny,2981,197
+2005,San Bernardino,Motor Vehicle Theft,1980,1534
+2005,San Bernardino,Arson,658,200
+2005,Santa Clara,Homicide,1197,186
+2005,Santa Clara,Rape,3447,2511
+2005,Santa Clara,Robbery,1844,659
+2005,Santa Clara,Assault,2861,1955
+2005,Santa Clara,Burglary,1419,146
+2005,Santa Clara,Larceny,3269,2911
+2005,Santa Clara,Motor Vehicle Theft,1784,488
+2005,Santa Clara,Arson,3026,1959
+2005,Alameda,Homicide,2435,640
+2005,Alameda,Rape,1852,472
+2005,Alameda,Robbery,4111,3369
+2005,Alameda,Assault,312,251
+2005,Alameda,Burglary,673,571
+2005,Alameda,Larceny,2099,1327
+2005,Alameda,Motor Vehicle Theft,3773,452
+2005,Alameda,Arson,3158,1183
+2005,Sacramento,Homicide,4140,2056
+2005,Sacramento,Rape,3220,1682
+2005,Sacramento,Robbery,2305,1154
+2005,Sacramento,Assault,4549,3191
+2005,Sacramento,Burglary,1746,627
+2005,Sacramento,Larceny,4732,1648
+2005,Sacramento,Motor Vehicle Theft,1495,103
+2005,Sacramento,Arson,3973,253
+2006,Los Angeles,Homicide,3233,2557
+2006,Los Angeles,Rape,148,92
+2006,Los Angeles,Robbery,3011,1919
+2006,Los Angeles,Assault,4483,3777
+2006,Los Angeles,Burglary,2919,956
+2006,Los Angeles,Larceny,4117,160
+2006,Los Angeles,Motor Vehicle Theft,4543,1300
+2006,Los Angeles,Arson,4961,3987
+2006,San Diego,Homicide,1577,1415
+2006,San Diego,Rape,1268,400
+2006,San Diego,Robbery,4785,3104
+2006,San Diego,Assault,2785,459
+2006,San Diego,Burglary,1004,882
+2006,San Diego,Larceny,4615,3446
+2006,San Diego,Motor Vehicle Theft,1095,749
+2006,San Diego,Arson,1743,37
+2006,Orange,Homicide,3486,562
+2006,Orange,Rape,2535,1799
+2006,Orange,Robbery,3404,2074
+2006,Orange,Assault,275,96
+2006,Orange,Burglary,1009,480
+2006,Orange,Larceny,4598,3067
+2006,Orange,Motor Vehicle Theft,865,658
+2006,Orange,Arson,4692,3120
+2006,Riverside,Homicide,66,43
+2006,Riverside,Rape,1293,157
+2006,Riverside,Robbery,2574,1069
+2006,Riverside,Assault,3494,2565
+2006,Riverside,Burglary,1110,279
+2006,Riverside,Larceny,3470,2544
+2006,Riverside,Motor Vehicle Theft,351,180
+2006,Riverside,Arson,656,98
+2006,San Bernardino,Homicide,749,115
+2006,San Bernardino,Rape,240,212
+2006,San Bernardino,Robbery,3025,2006
+2006,San Bernardino,Assault,1234,127
+2006,San Bernardino,Burglary,2115,1816
+2006,San Bernardino,Larceny,619,322
+2006,San Bernardino,Motor Vehicle Theft,1945,685
+2006,San Bernardino,Arson,3913,625
+2006,Santa Clara,Homicide,4064,2901
+2006,Santa Clara,Rape,1736,961
+2006,Santa Clara,Robbery,204,129
+2006,Santa Clara,Assault,4107,784
+2006,Santa Clara,Burglary,3225,245
+2006,Santa Clara,Larceny,2856,537
+2006,Santa Clara,Motor Vehicle Theft,1891,920
+2006,Santa Clara,Arson,2505,524
+2006,Alameda,Homicide,3000,35
+2006,Alameda,Rape,4830,4115
+2006,Alameda,Robbery,2418,399
+2006,Alameda,Assault,2751,971
+2006,Alameda,Burglary,1216,1115
+2006,Alameda,Larceny,4979,2774
+2006,Alameda,Motor Vehicle Theft,2032,853
+2006,Alameda,Arson,4196,3736
+2006,Sacramento,Homicide,3819,574
+2006,Sacramento,Rape,3311,1148
+2006,Sacramento,Robbery,1765,681
+2006,Sacramento,Assault,4983,3854
+2006,Sacramento,Burglary,2541,2311
+2006,Sacramento,Larceny,3174,1595
+2006,Sacramento,Motor Vehicle Theft,3101,4
+2006,Sacramento,Arson,4919,876
+2007,Los Angeles,Homicide,1041,883
+2007,Los Angeles,Rape,4192,635
+2007,Los Angeles,Robbery,1743,1682
+2007,Los Angeles,Assault,4802,119
+2007,Los Angeles,Burglary,880,786
+2007,Los Angeles,Larceny,3725,1081
+2007,Los Angeles,Motor Vehicle Theft,1419,740
+2007,Los Angeles,Arson,166,61
+2007,San Diego,Homicide,2888,1150
+2007,San Diego,Rape,1981,1012
+2007,San Diego,Robbery,1714,1081
+2007,San Diego,Assault,4779,512
+2007,San Diego,Burglary,2899,1119
+2007,San Diego,Larceny,609,600
+2007,San Diego,Motor Vehicle Theft,4633,3343
+2007,San Diego,Arson,4120,1470
+2007,Orange,Homicide,630,246
+2007,Orange,Rape,3197,153
+2007,Orange,Robbery,1729,1458
+2007,Orange,Assault,2794,1243
+2007,Orange,Burglary,3168,1008
+2007,Orange,Larceny,2191,1773
+2007,Orange,Motor Vehicle Theft,3109,452
+2007,Orange,Arson,3009,2265
+2007,Riverside,Homicide,2529,2388
+2007,Riverside,Rape,4696,1635
+2007,Riverside,Robbery,1807,356
+2007,Riverside,Assault,2120,1785
+2007,Riverside,Burglary,2899,2809
+2007,Riverside,Larceny,3780,2489
+2007,Riverside,Motor Vehicle Theft,1681,768
+2007,Riverside,Arson,1065,515
+2007,San Bernardino,Homicide,3137,2839
+2007,San Bernardino,Rape,385,246
+2007,San Bernardino,Robbery,4642,895
+2007,San Bernardino,Assault,3596,851
+2007,San Bernardino,Burglary,1737,689
+2007,San Bernardino,Larceny,3796,2427
+2007,San Bernardino,Motor Vehicle Theft,1618,956
+2007,San Bernardino,Arson,2788,1636
+2007,Santa Clara,Homicide,3963,1066
+2007,Santa Clara,Rape,4430,2444
+2007,Santa Clara,Robbery,4157,3373
+2007,Santa Clara,Assault,4019,3324
+2007,Santa Clara,Burglary,2596,753
+2007,Santa Clara,Larceny,2132,89
+2007,Santa Clara,Motor Vehicle Theft,825,604
+2007,Santa Clara,Arson,1675,1021
+2007,Alameda,Homicide,467,114
+2007,Alameda,Rape,666,195
+2007,Alameda,Robbery,875,500
+2007,Alameda,Assault,1566,1098
+2007,Alameda,Burglary,462,375
+2007,Alameda,Larceny,778,276
+2007,Alameda,Motor Vehicle Theft,2858,675
+2007,Alameda,Arson,3515,1892
+2007,Sacramento,Homicide,2554,2239
+2007,Sacramento,Rape,2836,1122
+2007,Sacramento,Robbery,4129,1571
+2007,Sacramento,Assault,2193,1687
+2007,Sacramento,Burglary,4182,3851
+2007,Sacramento,Larceny,3490,1548
+2007,Sacramento,Motor Vehicle Theft,2376,2264
+2007,Sacramento,Arson,2964,872
+2008,Los Angeles,Homicide,4002,2109
+2008,Los Angeles,Rape,645,341
+2008,Los Angeles,Robbery,4542,698
+2008,Los Angeles,Assault,445,444
+2008,Los Angeles,Burglary,4221,2502
+2008,Los Angeles,Larceny,1869,717
+2008,Los Angeles,Motor Vehicle Theft,2832,850
+2008,Los Angeles,Arson,3627,1390
+2008,San Diego,Homicide,193,116
+2008,San Diego,Rape,3190,3170
+2008,San Diego,Robbery,4541,2938
+2008,San Diego,Assault,3686,3222
+2008,San Diego,Burglary,1217,568
+2008,San Diego,Larceny,1112,108
+2008,San Diego,Motor Vehicle Theft,3032,2445
+2008,San Diego,Arson,3344,633
+2008,Orange,Homicide,1206,1186
+2008,Orange,Rape,782,234
+2008,Orange,Robbery,4896,953
+2008,Orange,Assault,2589,1542
+2008,Orange,Burglary,1241,169
+2008,Orange,Larceny,3043,2842
+2008,Orange,Motor Vehicle Theft,2731,1217
+2008,Orange,Arson,1590,28
+2008,Riverside,Homicide,3286,1445
+2008,Riverside,Rape,2436,1519
+2008,Riverside,Robbery,1438,1365
+2008,Riverside,Assault,549,510
+2008,Riverside,Burglary,4362,1324
+2008,Riverside,Larceny,1205,1093
+2008,Riverside,Motor Vehicle Theft,3536,1810
+2008,Riverside,Arson,2973,1205
+2008,San Bernardino,Homicide,2264,90
+2008,San Bernardino,Rape,763,530
+2008,San Bernardino,Robbery,4184,3522
+2008,San Bernardino,Assault,4318,1243
+2008,San Bernardino,Burglary,3759,1081
+2008,San Bernardino,Larceny,505,316
+2008,San Bernardino,Motor Vehicle Theft,944,360
+2008,San Bernardino,Arson,2008,1024
+2008,Santa Clara,Homicide,2046,347
+2008,Santa Clara,Rape,4335,504
+2008,Santa Clara,Robbery,1264,823
+2008,Santa Clara,Assault,978,933
+2008,Santa Clara,Burglary,183,57
+2008,Santa Clara,Larceny,3677,684
+2008,Santa Clara,Motor Vehicle Theft,1902,814
+2008,Santa Clara,Arson,4225,2933
+2008,Alameda,Homicide,3334,202
+2008,Alameda,Rape,2861,1252
+2008,Alameda,Robbery,1300,46
+2008,Alameda,Assault,1306,1166
+2008,Alameda,Burglary,3536,1396
+2008,Alameda,Larceny,3687,3330
+2008,Alameda,Motor Vehicle Theft,2753,470
+2008,Alameda,Arson,1403,735
+2008,Sacramento,Homicide,2881,967
+2008,Sacramento,Rape,407,155
+2008,Sacramento,Robbery,4518,1145
+2008,Sacramento,Assault,4235,3719
+2008,Sacramento,Burglary,2795,539
+2008,Sacramento,Larceny,2829,868
+2008,Sacramento,Motor Vehicle Theft,4186,3775
+2008,Sacramento,Arson,2558,924
+2009,Los Angeles,Homicide,3006,1581
+2009,Los Angeles,Rape,3374,389
+2009,Los Angeles,Robbery,305,196
+2009,Los Angeles,Assault,1888,449
+2009,Los Angeles,Burglary,59,55
+2009,Los Angeles,Larceny,847,241
+2009,Los Angeles,Motor Vehicle Theft,1065,373
+2009,Los Angeles,Arson,3186,2193
+2009,San Diego,Homicide,273,238
+2009,San Diego,Rape,4998,4158
+2009,San Diego,Robbery,3975,2874
+2009,San Diego,Assault,4834,4000
+2009,San Diego,Burglary,1683,104
+2009,San Diego,Larceny,560,384
+2009,San Diego,Motor Vehicle Theft,454,310
+2009,San Diego,Arson,4663,4571
+2009,Orange,Homicide,2050,1668
+2009,Orange,Rape,1510,1046
+2009,Orange,Robbery,3686,2724
+2009,Orange,Assault,4859,4178
+2009,Orange,Burglary,2098,50
+2009,Orange,Larceny,4830,716
+2009,Orange,Motor Vehicle Theft,4594,4583
+2009,Orange,Arson,1873,33
+2009,Riverside,Homicide,3469,2142
+2009,Riverside,Rape,1624,153
+2009,Riverside,Robbery,299,161
+2009,Riverside,Assault,4583,2165
+2009,Riverside,Burglary,820,305
+2009,Riverside,Larceny,4413,1984
+2009,Riverside,Motor Vehicle Theft,1127,235
+2009,Riverside,Arson,438,221
+2009,San Bernardino,Homicide,4908,1848
+2009,San Bernardino,Rape,4769,2814
+2009,San Bernardino,Robbery,3424,2966
+2009,San Bernardino,Assault,3328,1252
+2009,San Bernardino,Burglary,4031,577
+2009,San Bernardino,Larceny,2172,434
+2009,San Bernardino,Motor Vehicle Theft,2200,763
+2009,San Bernardino,Arson,1379,97
+2009,Santa Clara,Homicide,1408,858
+2009,Santa Clara,Rape,2532,446
+2009,Santa Clara,Robbery,2067,1331
+2009,Santa Clara,Assault,4394,4261
+2009,Santa Clara,Burglary,1408,1019
+2009,Santa Clara,Larceny,4687,3177
+2009,Santa Clara,Motor Vehicle Theft,2178,796
+2009,Santa Clara,Arson,187,183
+2009,Alameda,Homicide,3522,1353
+2009,Alameda,Rape,2882,1875
+2009,Alameda,Robbery,3081,68
+2009,Alameda,Assault,2643,2100
+2009,Alameda,Burglary,4350,3818
+2009,Alameda,Larceny,4188,3823
+2009,Alameda,Motor Vehicle Theft,4092,1906
+2009,Alameda,Arson,810,662
+2009,Sacramento,Homicide,3495,1935
+2009,Sacramento,Rape,949,359
+2009,Sacramento,Robbery,2997,1719
+2009,Sacramento,Assault,330,194
+2009,Sacramento,Burglary,1937,1218
+2009,Sacramento,Larceny,716,92
+2009,Sacramento,Motor Vehicle Theft,721,60
+2009,Sacramento,Arson,3172,1028
+2010,Los Angeles,Homicide,4749,3900
+2010,Los Angeles,Rape,573,345
+2010,Los Angeles,Robbery,3167,2593
+2010,Los Angeles,Assault,2018,1101
+2010,Los Angeles,Burglary,1803,1096
+2010,Los Angeles,Larceny,2346,2094
+2010,Los Angeles,Motor Vehicle Theft,2311,2286
+2010,Los Angeles,Arson,4252,2878
+2010,San Diego,Homicide,4193,3644
+2010,San Diego,Rape,4482,2055
+2010,San Diego,Robbery,4770,1276
+2010,San Diego,Assault,2816,302
+2010,San Diego,Burglary,688,55
+2010,San Diego,Larceny,4871,525
+2010,San Diego,Motor Vehicle Theft,4619,4123
+2010,San Diego,Arson,2175,364
+2010,Orange,Homicide,4671,1646
+2010,Orange,Rape,968,749
+2010,Orange,Robbery,1581,1297
+2010,Orange,Assault,1956,1038
+2010,Orange,Burglary,4630,2075
+2010,Orange,Larceny,763,38
+2010,Orange,Motor Vehicle Theft,2026,1296
+2010,Orange,Arson,175,43
+2010,Riverside,Homicide,4682,3596
+2010,Riverside,Rape,3333,2072
+2010,Riverside,Robbery,1653,1417
+2010,Riverside,Assault,116,104
+2010,Riverside,Burglary,2206,1169
+2010,Riverside,Larceny,2208,110
+2010,Riverside,Motor Vehicle Theft,1543,33
+2010,Riverside,Arson,4768,4007
+2010,San Bernardino,Homicide,2522,1541
+2010,San Bernardino,Rape,2789,1305
+2010,San Bernardino,Robbery,1811,1466
+2010,San Bernardino,Assault,2025,314
+2010,San Bernardino,Burglary,926,740
+2010,San Bernardino,Larceny,3498,1312
+2010,San Bernardino,Motor Vehicle Theft,1510,661
+2010,San Bernardino,Arson,2374,1733
+2010,Santa Clara,Homicide,1655,1526
+2010,Santa Clara,Rape,2613,2397
+2010,Santa Clara,Robbery,3785,2870
+2010,Santa Clara,Assault,1210,758
+2010,Santa Clara,Burglary,292,30
+2010,Santa Clara,Larceny,1113,228
+2010,Santa Clara,Motor Vehicle Theft,2645,919
+2010,Santa Clara,Arson,55,1
+2010,Alameda,Homicide,517,74
+2010,Alameda,Rape,53,14
+2010,Alameda,Robbery,695,117
+2010,Alameda,Assault,2978,1629
+2010,Alameda,Burglary,2601,2021
+2010,Alameda,Larceny,4339,846
+2010,Alameda,Motor Vehicle Theft,2812,1415
+2010,Alameda,Arson,1191,835
+2010,Sacramento,Homicide,1860,723
+2010,Sacramento,Rape,274,19
+2010,Sacramento,Robbery,4258,2048
+2010,Sacramento,Assault,4799,4415
+2010,Sacramento,Burglary,1623,138
+2010,Sacramento,Larceny,2076,901
+2010,Sacramento,Motor Vehicle Theft,4835,2039
+2010,Sacramento,Arson,59,4
+2011,Los Angeles,Homicide,1723,171
+2011,Los Angeles,Rape,2110,1191
+2011,Los Angeles,Robbery,3763,1619
+2011,Los Angeles,Assault,370,318
+2011,Los Angeles,Burglary,2426,1994
+2011,Los Angeles,Larceny,3008,1943
+2011,Los Angeles,Motor Vehicle Theft,2088,1118
+2011,Los Angeles,Arson,1654,317
+2011,San Diego,Homicide,4077,235
+2011,San Diego,Rape,2019,333
+2011,San Diego,Robbery,1958,375
+2011,San Diego,Assault,3580,1160
+2011,San Diego,Burglary,2685,1570
+2011,San Diego,Larceny,2610,1319
+2011,San Diego,Motor Vehicle Theft,3441,2965
+2011,San Diego,Arson,3693,1855
+2011,Orange,Homicide,3900,872
+2011,Orange,Rape,1302,269
+2011,Orange,Robbery,1364,724
+2011,Orange,Assault,2948,77
+2011,Orange,Burglary,2671,131
+2011,Orange,Larceny,650,41
+2011,Orange,Motor Vehicle Theft,2186,1863
+2011,Orange,Arson,1368,615
+2011,Riverside,Homicide,3647,2847
+2011,Riverside,Rape,3812,3708
+2011,Riverside,Robbery,4720,2190
+2011,Riverside,Assault,1042,664
+2011,Riverside,Burglary,2242,1248
+2011,Riverside,Larceny,3104,502
+2011,Riverside,Motor Vehicle Theft,4083,1997
+2011,Riverside,Arson,4966,3687
+2011,San Bernardino,Homicide,2201,1970
+2011,San Bernardino,Rape,247,133
+2011,San Bernardino,Robbery,2676,2438
+2011,San Bernardino,Assault,1252,553
+2011,San Bernardino,Burglary,2085,477
+2011,San Bernardino,Larceny,1304,922
+2011,San Bernardino,Motor Vehicle Theft,469,156
+2011,San Bernardino,Arson,2647,1120
+2011,Santa Clara,Homicide,3118,3044
+2011,Santa Clara,Rape,1000,288
+2011,Santa Clara,Robbery,2293,1857
+2011,Santa Clara,Assault,4662,1865
+2011,Santa Clara,Burglary,2962,1141
+2011,Santa Clara,Larceny,2903,1932
+2011,Santa Clara,Motor Vehicle Theft,4960,3228
+2011,Santa Clara,Arson,3769,3332
+2011,Alameda,Homicide,3278,2094
+2011,Alameda,Rape,2421,129
+2011,Alameda,Robbery,144,114
+2011,Alameda,Assault,2005,1315
+2011,Alameda,Burglary,843,810
+2011,Alameda,Larceny,2166,1683
+2011,Alameda,Motor Vehicle Theft,4156,3325
+2011,Alameda,Arson,2969,2597
+2011,Sacramento,Homicide,3255,711
+2011,Sacramento,Rape,864,345
+2011,Sacramento,Robbery,2399,362
+2011,Sacramento,Assault,2493,2265
+2011,Sacramento,Burglary,2238,984
+2011,Sacramento,Larceny,1689,827
+2011,Sacramento,Motor Vehicle Theft,2780,355
+2011,Sacramento,Arson,2985,1863
+2012,Los Angeles,Homicide,176,105
+2012,Los Angeles,Rape,3106,603
+2012,Los Angeles,Robbery,3499,1928
+2012,Los Angeles,Assault,4196,3533
+2012,Los Angeles,Burglary,3417,3368
+2012,Los Angeles,Larceny,3847,2826
+2012,Los Angeles,Motor Vehicle Theft,1842,813
+2012,Los Angeles,Arson,3526,3417
+2012,San Diego,Homicide,1695,419
+2012,San Diego,Rape,1255,982
+2012,San Diego,Robbery,2922,1854
+2012,San Diego,Assault,4071,566
+2012,San Diego,Burglary,2758,1332
+2012,San Diego,Larceny,251,179
+2012,San Diego,Motor Vehicle Theft,4262,574
+2012,San Diego,Arson,586,74
+2012,Orange,Homicide,435,390
+2012,Orange,Rape,3331,474
+2012,Orange,Robbery,467,346
+2012,Orange,Assault,3650,2687
+2012,Orange,Burglary,1004,875
+2012,Orange,Larceny,4908,1205
+2012,Orange,Motor Vehicle Theft,4809,4120
+2012,Orange,Arson,2040,1203
+2012,Riverside,Homicide,4855,3572
+2012,Riverside,Rape,4430,4158
+2012,Riverside,Robbery,4807,2713
+2012,Riverside,Assault,2253,1492
+2012,Riverside,Burglary,3170,966
+2012,Riverside,Larceny,4994,3432
+2012,Riverside,Motor Vehicle Theft,738,147
+2012,Riverside,Arson,3751,341
+2012,San Bernardino,Homicide,1774,1383
+2012,San Bernardino,Rape,4472,1792
+2012,San Bernardino,Robbery,1809,1164
+2012,San Bernardino,Assault,1039,214
+2012,San Bernardino,Burglary,2532,951
+2012,San Bernardino,Larceny,772,317
+2012,San Bernardino,Motor Vehicle Theft,2129,428
+2012,San Bernardino,Arson,1550,285
+2012,Santa Clara,Homicide,3545,3090
+2012,Santa Clara,Rape,2115,768
+2012,Santa Clara,Robbery,3107,193
+2012,Santa Clara,Assault,2211,1701
+2012,Santa Clara,Burglary,996,830
+2012,Santa Clara,Larceny,3385,2972
+2012,Santa Clara,Motor Vehicle Theft,4200,1481
+2012,Santa Clara,Arson,1951,161
+2012,Alameda,Homicide,3501,2134
+2012,Alameda,Rape,104,91
+2012,Alameda,Robbery,1873,1201
+2012,Alameda,Assault,3512,3420
+2012,Alameda,Burglary,3129,832
+2012,Alameda,Larceny,4458,2806
+2012,Alameda,Motor Vehicle Theft,2540,1790
+2012,Alameda,Arson,377,53
+2012,Sacramento,Homicide,3360,3300
+2012,Sacramento,Rape,3725,3054
+2012,Sacramento,Robbery,2193,1111
+2012,Sacramento,Assault,1361,1143
+2012,Sacramento,Burglary,2588,451
+2012,Sacramento,Larceny,214,181
+2012,Sacramento,Motor Vehicle Theft,872,6
+2012,Sacramento,Arson,4475,774
+2013,Los Angeles,Homicide,2248,146
+2013,Los Angeles,Rape,3745,3452
+2013,Los Angeles,Robbery,964,547
+2013,Los Angeles,Assault,1358,699
+2013,Los Angeles,Burglary,4227,513
+2013,Los Angeles,Larceny,1970,814
+2013,Los Angeles,Motor Vehicle Theft,3644,745
+2013,Los Angeles,Arson,1459,706
+2013,San Diego,Homicide,4616,3190
+2013,San Diego,Rape,4541,1555
+2013,San Diego,Robbery,854,255
+2013,San Diego,Assault,3627,2901
+2013,San Diego,Burglary,1437,1303
+2013,San Diego,Larceny,4738,2761
+2013,San Diego,Motor Vehicle Theft,2729,2106
+2013,San Diego,Arson,4273,2768
+2013,Orange,Homicide,4003,3186
+2013,Orange,Rape,3330,2573
+2013,Orange,Robbery,4666,2599
+2013,Orange,Assault,4083,236
+2013,Orange,Burglary,1354,1224
+2013,Orange,Larceny,1351,1258
+2013,Orange,Motor Vehicle Theft,2591,2051
+2013,Orange,Arson,491,28
+2013,Riverside,Homicide,3230,2657
+2013,Riverside,Rape,3848,804
+2013,Riverside,Robbery,124,69
+2013,Riverside,Assault,2225,2089
+2013,Riverside,Burglary,90,37
+2013,Riverside,Larceny,2131,1700
+2013,Riverside,Motor Vehicle Theft,4733,1622
+2013,Riverside,Arson,391,26
+2013,San Bernardino,Homicide,695,167
+2013,San Bernardino,Rape,659,267
+2013,San Bernardino,Robbery,504,393
+2013,San Bernardino,Assault,1758,1424
+2013,San Bernardino,Burglary,3019,701
+2013,San Bernardino,Larceny,2731,1599
+2013,San Bernardino,Motor Vehicle Theft,4275,3067
+2013,San Bernardino,Arson,1436,818
+2013,Santa Clara,Homicide,4838,3363
+2013,Santa Clara,Rape,4939,4124
+2013,Santa Clara,Robbery,198,10
+2013,Santa Clara,Assault,2108,1136
+2013,Santa Clara,Burglary,236,38
+2013,Santa Clara,Larceny,1300,97
+2013,Santa Clara,Motor Vehicle Theft,4200,2711
+2013,Santa Clara,Arson,4903,4501
+2013,Alameda,Homicide,1835,1571
+2013,Alameda,Rape,800,147
+2013,Alameda,Robbery,1812,1267
+2013,Alameda,Assault,3970,3005
+2013,Alameda,Burglary,4510,481
+2013,Alameda,Larceny,203,193
+2013,Alameda,Motor Vehicle Theft,1574,72
+2013,Alameda,Arson,2393,1040
+2013,Sacramento,Homicide,1290,60
+2013,Sacramento,Rape,988,615
+2013,Sacramento,Robbery,4170,3569
+2013,Sacramento,Assault,1302,107
+2013,Sacramento,Burglary,221,178
+2013,Sacramento,Larceny,3599,101
+2013,Sacramento,Motor Vehicle Theft,2372,1636
+2013,Sacramento,Arson,3165,2864
